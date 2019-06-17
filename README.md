@@ -1,3 +1,4 @@
-# Go language web  services 
+# Go language web services 
 
-receive  image and run python script to predict cancer 
+receive  image and run python script 
+
